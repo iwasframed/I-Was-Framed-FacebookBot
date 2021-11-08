@@ -11,4 +11,19 @@ Step 4:  Confirm 'Frame Size' by tapping or clicking 'Yes' or 'No.'
 
 Step 5:  Enter the width of the artwork (window).
 
-Step 6:  Verify the window width you just inputtedd with a 'Yes' or 'No.'
+Step 6:  Verify the window width you just inputted with a 'Yes' or 'No.'
+
+Step 7:  Enter the length of the artwork (window).
+
+Step 8:  Verify the window width you just inputted with a 'Yes' or 'No.'
+
+Step 9:  Enter the top width of the matting border.
+
+Step 10:  Veriy the top width of the matting border you just inputted with a 'Yes' or 'No.'
+
+Step 11:  Enter the bottom width of the matting border.
+
+Step 12:  Veriy the bottom width of the matting border you just inputted with a 'Yes' or 'No.'
+
+Step 13:  Enter the left length of the matting border.
+
